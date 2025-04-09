@@ -138,4 +138,4 @@ React frontend will run at:
 ## 🙌 Author
 
 Made with ❤️ as part of an internship task to demonstrate full-stack CRUD operations using Django and React.
-```
+
